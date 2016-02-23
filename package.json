@@ -1,0 +1,19 @@
+{
+  "name": "@rca/test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas LARCHE <nicolas.larche@rca.fr>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlarche/test2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nlarche/test2/issues"
+  },
+  "homepage": "https://github.com/nlarche/test2#readme"
+}
